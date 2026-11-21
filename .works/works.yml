@@ -1,0 +1,31 @@
+company_name: "Awesome AI Testing Tools"
+content_table: true
+item_name: Item
+items_name: Items
+paging_mode: paging
+copyright_year: 2026
+name: "Awesome AI Testing Tools"
+initial_prompt: "A curated directory of AI test generation, autonomous QA agents and AI-powered testing tools. Include products such as QA Wolf, Momentic, Mabl, Testim, Applitools, Functionize, Octomind, Checksum, testRigor, Qodo, Meticulous, Shortest, plus other notable commercial and open-source options. Categories: Autonomous QA Agents, AI Test Generation, Self-Healing E2E Tests, Visual AI Testing, Testing AI Agents & LLM Apps, Open Source. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
+providers:
+  ai: openrouter
+  search: tavily
+  pipeline: agent-pipeline
+  contentExtractor: local-content-extractor
+website_repo: "ever-works/awesome-ai-testing-tools-website"
+company_website: "https://ai-testing-tools.ever.works"
+settings:
+  categories_enabled: true
+  companies_enabled: true
+  tags_enabled: true
+  collections_enabled: true
+  surveys_enabled: true
+  import_enabled: false
+  export_enabled: false
+  import_max_rows: 500
+pagination:
+  type: standard
+  itemsPerPage: 12
+custom_menu:
+  header: []
+  footer: []
+version: 0.1.0

@@ -1,0 +1,13 @@
+name: "Autify"
+description: "Autify is an AI-powered test automation platform for web and mobile applications. It offers no-code test creation, automatic test maintenance, and visual testing for QA teams."
+source_url: "https://autify.com/"
+category: "Self-Healing E2E Tests"
+tags:
+  - "paid"
+  - "ai-powered"
+  - "self-healing"
+  - "e2e-testing"
+  - "no-code"
+icon_url: "https://icons.duckduckgo.com/ip3/autify.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://autify.com/>\n"
+updated_at: "2026-11-21 01:11"

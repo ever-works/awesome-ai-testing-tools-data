@@ -1,0 +1,13 @@
+name: "Applitools"
+description: "Applitools provides visual AI testing and monitoring for web and mobile applications. It detects visual regressions across browsers and devices using AI-powered computer vision and integrates with existing test frameworks."
+source_url: "https://applitools.com/"
+category: "Visual AI Testing"
+tags:
+  - "freemium"
+  - "ai-powered"
+  - "visual-testing"
+  - "ui-testing"
+  - "ci-cd"
+icon_url: "https://icons.duckduckgo.com/ip3/applitools.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://applitools.com/>\n"
+updated_at: "2026-11-21 01:11"

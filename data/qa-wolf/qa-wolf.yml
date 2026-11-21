@@ -1,0 +1,13 @@
+name: "QA Wolf"
+description: "QA Wolf provides end-to-end automated testing as a service, combining AI-generated tests with human test engineers to build and maintain coverage. It targets engineering teams that want outsourced QA without writing scripts."
+source_url: "https://www.qa-wolf.com/"
+category: "Autonomous QA Agents"
+tags:
+  - "paid"
+  - "enterprise"
+  - "ai-powered"
+  - "autonomous-qa"
+  - "e2e-testing"
+icon_url: "https://icons.duckduckgo.com/ip3/www.qa-wolf.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.qa-wolf.com/>\n"
+updated_at: "2026-11-21 01:11"

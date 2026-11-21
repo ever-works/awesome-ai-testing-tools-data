@@ -1,0 +1,13 @@
+name: "Qodo"
+description: "Qodo (formerly CodiumAI) is an AI code integrity platform that generates unit tests, suggests code improvements, and helps developers verify behavior. It offers IDE plugins and a free tier for individual developers."
+source_url: "https://qodo.ai/"
+category: "AI Test Generation"
+tags:
+  - "freemium"
+  - "ai-powered"
+  - "unit-testing"
+  - "code-quality"
+  - "ide-plugin"
+icon_url: "https://icons.duckduckgo.com/ip3/qodo.ai.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://qodo.ai/>\n"
+updated_at: "2026-11-21 01:11"

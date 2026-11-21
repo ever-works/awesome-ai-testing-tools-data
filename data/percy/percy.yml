@@ -1,0 +1,13 @@
+name: "Percy"
+description: "Percy is a visual testing and review platform by BrowserStack that catches UI changes through automated screenshot comparisons. It integrates with CI/CD and popular test frameworks for frontend teams."
+source_url: "https://percy.io/"
+category: "Visual AI Testing"
+tags:
+  - "freemium"
+  - "ai-powered"
+  - "visual-testing"
+  - "ui-testing"
+  - "ci-cd"
+icon_url: "https://icons.duckduckgo.com/ip3/percy.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://percy.io/>\n"
+updated_at: "2026-11-21 01:11"

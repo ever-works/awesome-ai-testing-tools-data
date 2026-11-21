@@ -1,0 +1,13 @@
+name: "Reflect"
+description: "Reflect is a no-code test automation platform that builds end-to-end tests by recording user interactions. It uses AI to self-heal tests and supports web applications with CI/CD integration."
+source_url: "https://reflect.run/"
+category: "Self-Healing E2E Tests"
+tags:
+  - "freemium"
+  - "ai-powered"
+  - "self-healing"
+  - "e2e-testing"
+  - "no-code"
+icon_url: "https://icons.duckduckgo.com/ip3/reflect.run.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://reflect.run/>\n"
+updated_at: "2026-11-21 01:11"

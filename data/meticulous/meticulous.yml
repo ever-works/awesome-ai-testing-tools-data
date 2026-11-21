@@ -1,0 +1,13 @@
+name: "Meticulous"
+description: "Meticulous is an autonomous QA agent that captures frontend sessions and generates tests to catch UI regressions without code changes. It runs in CI and requires no test writing for frontend teams."
+source_url: "https://meticulous.ai/"
+category: "Autonomous QA Agents"
+tags:
+  - "paid"
+  - "ai-powered"
+  - "autonomous-qa"
+  - "ui-testing"
+  - "ci-cd"
+icon_url: "https://icons.duckduckgo.com/ip3/meticulous.ai.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://meticulous.ai/>\n"
+updated_at: "2026-11-21 01:11"

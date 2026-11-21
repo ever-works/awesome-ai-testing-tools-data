@@ -1,0 +1,13 @@
+name: "DeepEval"
+description: "DeepEval is an open-source evaluation framework for LLM applications. It provides unit-testing style metrics for RAG, agents, and generative models, integrating with pytest."
+source_url: "https://deepeval.com/"
+category: "Testing AI Agents & LLM Apps"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "llm-testing"
+  - "evaluation"
+  - "rag"
+icon_url: "https://icons.duckduckgo.com/ip3/deepeval.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://deepeval.com/>\n- Repository: <https://github.com/confident-ai/deepeval>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:11"

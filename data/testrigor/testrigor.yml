@@ -1,0 +1,13 @@
+name: "testRigor"
+description: "testRigor allows users to write automated tests in plain English using generative AI. It supports web, mobile, and desktop testing with self-healing and minimal maintenance for QA teams."
+source_url: "https://testrigor.com/"
+category: "Self-Healing E2E Tests"
+tags:
+  - "paid"
+  - "ai-powered"
+  - "self-healing"
+  - "e2e-testing"
+  - "codeless"
+icon_url: "https://icons.duckduckgo.com/ip3/testrigor.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://testrigor.com/>\n"
+updated_at: "2026-11-21 01:11"

@@ -1,0 +1,13 @@
+name: "Arize Phoenix"
+description: "Arize Phoenix is an open-source observability and evaluation framework for LLM applications. It enables tracing, experimentation, and evaluation of AI models and retrieval pipelines."
+source_url: "https://arize.com/phoenix"
+category: "Testing AI Agents & LLM Apps"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "llm-testing"
+  - "observability"
+  - "evaluation"
+icon_url: "https://icons.duckduckgo.com/ip3/arize.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://arize.com/phoenix>\n- Repository: <https://github.com/Arize-ai/phoenix>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:11"

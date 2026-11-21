@@ -1,0 +1,13 @@
+name: "Testim"
+description: "Testim uses AI to author, execute, and maintain automated end-to-end tests. It features smart locators that self-heal when UI changes and supports code-based and codeless test creation."
+source_url: "https://www.testim.io/"
+category: "Self-Healing E2E Tests"
+tags:
+  - "freemium"
+  - "ai-powered"
+  - "self-healing"
+  - "e2e-testing"
+  - "low-code"
+icon_url: "https://icons.duckduckgo.com/ip3/www.testim.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.testim.io/>\n"
+updated_at: "2026-11-21 01:11"

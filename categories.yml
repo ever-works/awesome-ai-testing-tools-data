@@ -1,0 +1,12 @@
+- id: autonomous-qa-agents
+  name: "Autonomous QA Agents"
+- id: ai-test-generation
+  name: "AI Test Generation"
+- id: self-healing-e2e-tests
+  name: "Self-Healing E2E Tests"
+- id: visual-ai-testing
+  name: "Visual AI Testing"
+- id: testing-ai-agents-and-llm-apps
+  name: "Testing AI Agents & LLM Apps"
+- id: open-source
+  name: "Open Source"

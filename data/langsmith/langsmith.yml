@@ -1,0 +1,13 @@
+name: "LangSmith"
+description: "LangSmith is a platform for tracing, evaluating, and monitoring LLM applications and agents. It helps developers debug chains, run evaluations, and track performance in production."
+source_url: "https://smith.langchain.com/"
+category: "Testing AI Agents & LLM Apps"
+tags:
+  - "freemium"
+  - "ai-powered"
+  - "llm-testing"
+  - "tracing"
+  - "evaluation"
+icon_url: "https://icons.duckduckgo.com/ip3/smith.langchain.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://smith.langchain.com/>\n"
+updated_at: "2026-11-21 01:11"

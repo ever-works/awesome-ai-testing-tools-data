@@ -1,0 +1,13 @@
+name: "Katalon"
+description: "Katalon is a test automation platform for web, API, mobile, and desktop testing. It includes AI-powered test generation, self-healing mechanisms, and a low-code interface for teams of all skill levels."
+source_url: "https://katalon.com/"
+category: "Self-Healing E2E Tests"
+tags:
+  - "freemium"
+  - "ai-powered"
+  - "self-healing"
+  - "e2e-testing"
+  - "low-code"
+icon_url: "https://icons.duckduckgo.com/ip3/katalon.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://katalon.com/>\n"
+updated_at: "2026-11-21 01:11"

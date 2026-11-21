@@ -1,0 +1,13 @@
+name: "Checksum"
+description: "Checksum automatically generates end-to-end tests from user sessions and production traffic using AI. It integrates with Playwright and Cypress to keep tests in sync with application changes."
+source_url: "https://checksum.ai/"
+category: "AI Test Generation"
+tags:
+  - "paid"
+  - "ai-powered"
+  - "test-generation"
+  - "e2e-testing"
+  - "ci-cd"
+icon_url: "https://icons.duckduckgo.com/ip3/checksum.ai.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://checksum.ai/>\n"
+updated_at: "2026-11-21 01:11"

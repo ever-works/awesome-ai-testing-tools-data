@@ -1,0 +1,13 @@
+name: "Mabl"
+description: "Mabl is an AI-powered test automation platform for end-to-end, API, and performance tests. It offers auto-healing tests, low-code authoring, and integrates into CI/CD pipelines for continuous testing."
+source_url: "https://www.mabl.com/"
+category: "Self-Healing E2E Tests"
+tags:
+  - "paid"
+  - "ai-powered"
+  - "self-healing"
+  - "e2e-testing"
+  - "ci-cd"
+icon_url: "https://icons.duckduckgo.com/ip3/www.mabl.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.mabl.com/>\n"
+updated_at: "2026-11-21 01:11"

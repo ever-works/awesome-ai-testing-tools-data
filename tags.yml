@@ -1,0 +1,64 @@
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: ai-powered
+  name: "AI-Powered"
+- id: autonomous-qa
+  name: "Autonomous QA"
+- id: e2e-testing
+  name: "E2E Testing"
+- id: self-healing
+  name: "Self-Healing"
+- id: ci-cd
+  name: "CI/CD"
+- id: freemium
+  name: "Freemium"
+- id: low-code
+  name: "Low-Code"
+- id: visual-testing
+  name: "Visual Testing"
+- id: ui-testing
+  name: "UI Testing"
+- id: functional-testing
+  name: "Functional Testing"
+- id: test-generation
+  name: "Test Generation"
+- id: codeless
+  name: "Codeless"
+- id: unit-testing
+  name: "Unit Testing"
+- id: code-quality
+  name: "Code Quality"
+- id: ide-plugin
+  name: "IDE Plugin"
+- id: cloud
+  name: "Cloud"
+- id: no-code
+  name: "No-Code"
+- id: test-selection
+  name: "Test Selection"
+- id: devops
+  name: "DevOps"
+- id: llm-testing
+  name: "LLM Testing"
+- id: tracing
+  name: "Tracing"
+- id: evaluation
+  name: "Evaluation"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: observability
+  name: "Observability"
+- id: rag
+  name: "RAG"
+- id: red-teaming
+  name: "Red Teaming"
+- id: cli
+  name: "CLI"
+- id: api-testing
+  name: "API Testing"
+- id: java
+  name: "Java"

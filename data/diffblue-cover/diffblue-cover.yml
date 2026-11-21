@@ -1,0 +1,13 @@
+name: "Diffblue Cover"
+description: "Diffblue Cover is an AI-powered unit test generation tool for Java applications. It autonomously writes and maintains JUnit tests to help development teams improve code coverage."
+source_url: "https://diffblue.com/"
+category: "AI Test Generation"
+tags:
+  - "freemium"
+  - "ai-powered"
+  - "unit-testing"
+  - "java"
+  - "ci-cd"
+icon_url: "https://icons.duckduckgo.com/ip3/diffblue.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://diffblue.com/>\n"
+updated_at: "2026-11-21 01:11"

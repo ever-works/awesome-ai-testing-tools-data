@@ -1,0 +1,13 @@
+name: "Testsigma"
+description: "Testsigma is a cloud-based test automation platform that uses AI to create and maintain end-to-end tests in plain English. It supports web, mobile, and API testing with CI/CD integrations."
+source_url: "https://testsigma.com/"
+category: "Self-Healing E2E Tests"
+tags:
+  - "freemium"
+  - "ai-powered"
+  - "self-healing"
+  - "e2e-testing"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/testsigma.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://testsigma.com/>\n"
+updated_at: "2026-11-21 01:11"

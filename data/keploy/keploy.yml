@@ -1,0 +1,13 @@
+name: "Keploy"
+description: "Keploy is an open-source API testing platform that generates test cases and mocks from real user traffic. It captures API calls and creates regression tests without manual scripting."
+source_url: "https://keploy.io/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api-testing"
+  - "test-generation"
+  - "ci-cd"
+icon_url: "https://icons.duckduckgo.com/ip3/keploy.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://keploy.io/>\n- Repository: <https://github.com/keploy/keploy>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:11"
